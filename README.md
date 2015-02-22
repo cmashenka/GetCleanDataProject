@@ -11,8 +11,7 @@ The purpose of this project is to demonstrate your ability to collect, work with
   * readme.MD  - the file you are currently viewing
   * run_analysis.R – R script for uploading raw data files and creating a tidy data set
   * Codebook.MD – information about source data, transformations performed to clean the data and variables created in the process. 
-
-#######Please review CodeBook file for information on source data and transformations that were done during the analysis.
+######Please review CodeBook.md file for information on source data and transformations that were done during the analysis.
 
 ##Pre-requisite for script to work
 the code requires package plyr. If you do not have this package, please run the following code in
